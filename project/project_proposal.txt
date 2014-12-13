@@ -1,0 +1,15 @@
+Fernando Cortez
+24 October 2014
+CSC 4380
+Project Proposal
+
+
+The project will be worked on solely by myself. I will be building a screen
+capture utility to create images from a computer desktop. The user will be
+able to capture the entire desktop, a selected window, or a selected area;
+each of these different captures can be done by either clicking on their
+respective buttons or via a keyboard shortcut. The user will be able to set
+some options, like a default save directory.
+
+The project will be written in Racket using the Racket Graphical Interface
+Toolkit.
